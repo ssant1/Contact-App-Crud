@@ -1,0 +1,22 @@
+{
+  "name": "frontend",
+  "version": "0.0.0",
+  "description": "A frontend for a contact app",
+  "main": "src/index.jsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ssant1/Contact-App-Crud.git"
+  },
+  "keywords": [
+    "React.js"
+  ],
+  "author": "ssant1 & rogeliosamuel621",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ssant1/Contact-App-Crud/issues"
+  },
+  "homepage": "https://github.com/ssant1/Contact-App-Crud#readme"
+}
